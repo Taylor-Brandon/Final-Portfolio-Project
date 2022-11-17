@@ -7,6 +7,8 @@ This application was designed in order to provide an easily accessible portfolio
 
 ## Installation
 This webpage can be used by utilizing its appropriate link.
+
+
 file:///Users/community/conflict-resolution/Portfolio-Project/index.html#Section-4
 
 
