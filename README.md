@@ -6,13 +6,15 @@
 This application was designed in order to provide an easily accessible portfolio for furture employers to review the developer's information, work, experience, and contact information.
 
 ## Installation
-This webpage can be used by utilizing its appropriate link. 
+This webpage can be used by utilizing its appropriate link.
+file:///Users/community/conflict-resolution/Portfolio-Project/index.html#Section-4
 
 
 ## Usage
 
 In order to utlizie this website, begin by viewing the navigation bar, which will display links used to direct users to their desired section of the webpage. The user is able to be directed to information about the developer as well as images that can be utlized as links to direct to their Github account, email, and LinkedIn. 
 
+![alt text] (file:///Users/community/Desktop/Screen%20Shot%202022-11-17%20at%202.32.14%20PM.png)
 
 ## Features
 
